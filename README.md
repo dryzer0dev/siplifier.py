@@ -36,7 +36,7 @@ Avant de commencer, assurez-vous d'avoir :
 
 Il est recommandé d'utiliser un environnement virtuel pour éviter les conflits entre les paquets :
 
-```bash
+bash
 python -m venv venv
 source venv/bin/activate  #Unix ou MacOS
 venv\Scripts\activate  #Windows
