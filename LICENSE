@@ -1,0 +1,155 @@
+---
+
+#-# prévention
+
+frrot tu vole le code j'te détruit oublie pas g 7 ordis pour menvoyer les donnees en temps reel et je suis pas un pauvre skid
+
+---
+
+---
+
+# Licence de l'Outil Xiwa ( version beta )
+
+---
+
+## Licence MIT Élargie avec Clauses Restrictives
+
+### Copyright
+
+Copyright © 2024 dryzer0
+dev
+---
+
+### Permissions
+
+**Permission est accordée, sans condition, à toute personne obtenant une copie de ce logiciel et des fichiers de documentation associés (le "Logiciel") de l'utiliser à des fins personnelles ou commerciales, sous réserve des restrictions suivantes :**
+
+1. **Utilisation autorisée** : Vous êtes libre d'utiliser ce logiciel, à condition de respecter intégralement les termes de cette Licence.
+2. **Copie** : Vous pouvez faire des copies du logiciel, tant que vous maintenez intactes toutes les mentions de droits d'auteur et d'autres avis de propriété.
+3. **Modification** : Vous avez la liberté de modifier le code source, à condition que les mentions d'origine soient conservées. Tout ajout ou modification doit être clairement indiqué.
+4. **Distribution** : La redistribution, qu’elle soit gratuite ou payante, est permise uniquement en incluant cette licence. La redistribution sans cette licence est expressément interdite.
+5. **Création de sous-licences** : La création de sous-licences est strictement conditionnée à l'accord explicite du titulaire des droits.
+
+---
+
+### Avertissement de Droit d'Auteur
+
+La notice de droit d'auteur ci-dessus, ainsi que cette notice de permission, doivent être incluses dans toutes les copies ou parties substantielles du Logiciel. L'absence de ces avis pourrait entraîner des actions judiciaires.
+
+---
+
+### Clause de Non-Garantie
+
+Le logiciel est fourni "tel quel", sans aucune garantie d'aucune sorte, explicite ou implicite. Les titulaires de droits n'assument aucune responsabilité concernant :
+
+1. **Utilisation malveillante** : Toute utilisation prévue du code en violation des lois en vigueur ou des droits d'autrui.
+2. **Erreur ou inexactitude** : Toute erreur ou inexactitude dans le code, même indésirable.
+3. **Dommages consécutifs** : Toute perte de profits, de données ou d'autres dommages, indirects ou consécutifs, résultant de l'utilisation du Logiciel.
+
+### Responsabilité en Cas de Vol
+
+#### **Définition et Conséquences du Vol de Code**
+Le vol de code est ici défini comme suit :
+
+1. **Vol et Détournement** : Toute forme de duplicité qui implique la prise, la revente ou l'utilisation du code à des fins personnelles sans le consentement écrit du titulaire des droits.
+2. **Inversible** : Les conséquences de telles actions sont considérées comme irréversibles.
+
+#### Actions Prises Contre le Vol
+1. **Poursuites Judiciaires** : Toute personne ou entité reconnue coupable de vol se verra poursuivie en justice. Les poursuites peuvent inclure, mais ne sont pas limitées à :
+   - Dommages-intérêts punitifs, qui peuvent atteindre jusqu'à trois fois les pertes subies par le titulaire.
+   - Frais juridiques couverts par la partie perdante.
+   - Interdiction permanente d'utilisation et de distribution du Logiciel.
+2. **Intimidation Juridique** : Soyez averti que des détectives privés et d'autres méthodes peuvent être utilisés pour surveiller et traquer les violations de cette licence.
+
+---
+
+### Objectif et Utilisation Responsables
+
+Vous êtes tenu de respecter les normes éthiques lors de l'utilisation de ce logiciel. Toute violation délibérée de ce code d'éthique sera poursuivie avec rigueur.
+
+#### Utilisation Éthique
+
+Effectuer des activités illégales ou non éthiques, y compris l'utilisation du logiciel pour compromettre des systèmes ou pour des attaques de cybersécurité, entraînera des conséquences graves.
+
+### Protection des Données
+
+L'utilisation de ce logiciel dans des projets impliquant la collecte de données personnelles doit être conforme aux lois en vigueur. Vous êtes tenu d'avoir des politiques de confidentialité claires et respectueuses.
+
+---
+
+### Exemples d'Utilisation Autorisés
+
+#### Exemple 1 : Installation de Dépendances
+
+```bash
+pip install -r requirements.txt
+```
+
+#### Exemple 2 : Exécution du Script
+
+```bash
+python xiwa.py
+```
+
+#### Exemple 3 : Modification et Réutilisation
+
+Les modifications sont encouragées, tant que vous respectez les directives de propriété intellectuelle :
+
+```python
+# Ajout d'une nouvelle fonctionnalité
+def nouvelle_fonctionnalite():
+    print("Ceci est une nouvelle fonctionnalité ajoutée.")
+```
+
+---
+
+### Maintien de la Documentation
+
+Il est impératif de maintenir la documentation de votre version et de l'usage de ce logiciel. Toute version antérieure doit être conservée et documentée.
+
+---
+
+### Responsabilité et Audit
+
+1. **Audits de Sécurité** : Il est fortement recommandé de procéder à des audits réguliers pour détecter toute vulnérabilité. Des organismes externes peuvent être sollicités.
+2. **Vérification des Dépendances** : Les utilisateurs du logiciel doivent vérifier régulièrement que les dépendances n'ont pas été compromises.
+
+---
+
+### Propriété Intellectuelle et Conformité
+
+La conformité à l'ordre juridique applicable est exigée lors de l'utilisation et de la redistribution du logiciel. Tout manquement pourrait entraîner des poursuites criminelles.
+
+---
+
+### Clause de Non-Remboursement
+
+Ce logiciel est fourni tel quel, et aucune réclamation ne sera acceptée concernant des pertes ou des inconvénients liés à son utilisation. En utilisant ce logiciel, vous reconnaissez et acceptez qu'aucune demande de remboursement ne sera honorée sous quelque forme que ce soit.
+
+---
+
+### Modifications et Annulations
+
+Les termes de cette licence peuvent être modifiés par le titulaire des droits d'auteur à tout moment. Les modifications prendront effet dès leur publication.
+
+---
+
+### Confidentialité
+
+Toute information recueillie à travers ce logiciel ne sera utilisée qu’à des fins de fonctionnement et sous aucune autre circonstance, sans votre consentement explicite. Violer cet accord pourrait entraîner des poursuites.
+
+---
+
+### Contact
+
+Pour toute question ou pour signaler des violations potentielles, veuillez contacter :
+[Adresse e-mail / Site web]
+
+---
+
+### Conclusion
+
+Cette licence vise à protéger le travail créatif et intellectuel des auteurs en établissant des règles claires et des conséquences strictes. Toute personne enfreignant ces règlements sera poursuivie avec la plus grande sévérité. La violation de cette licence ne sera pas tolérée et engendrera des actions immédiates de la part des titulaires des droits.
+
+tout manière frrot... tu vole le code j'te bz :)
+---
