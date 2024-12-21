@@ -1,5 +1,5 @@
-# siplifier.py
-simplifier &amp; normalize for python. read THE README!!!!!!!!!!
+
+---
 
 # Documentation de l'outil Xiwa
 
@@ -36,32 +36,57 @@ Avant de commencer, assurez-vous d'avoir :
 
 Il est recommandé d'utiliser un environnement virtuel pour éviter les conflits entre les paquets :
 
-bash
+```bash
 python -m venv venv
-source venv/bin/activate  #Unix ou MacOS
-venv\Scripts\activate  #Windows
+source venv/bin/activate  # Unix ou MacOS
+venv\Scripts\activate  # Windows
+```
 
+## Configuration du Webhook
 
+Pour envoyer les informations du système à Discord, vous devez configurer un webhook dans votre serveur Discord et indiquer son URL dans le script. Cherchez la ligne contenant le commentaire `# YOUR WEBHOOK` dans la fonction `systemInfo()` et remplacez-la par :
 
-**Insertion du Webhook :**
-   Pour envoyer les informations du système à Discord, vous devez configurer un webhook dans votre serveur Discord et indiquer son URL dans le script. Cherchez la ligne contenant le commentaire `# YOUR WHEBOOK` dans la fonction `systemInfo()` et remplacez-la par :
-   ```python
-   w3bh00k = SyncWebhook.from_url("VOTRE_URL_WEBHOOK")
+```python
+w3bh00k = SyncWebhook.from_url("VOTRE_URL_WEBHOOK")
+```
 
-<h2>CONSEILS</h2> 
-<hr style="color: red;">
-<p style="font-familly: sans-serif;"> commands:</p>
-<ul>
-   <li> vp1() is a def for a VERY SECURE vpn (call the def) </li>
-   <li> systemInfo() is a def for your virus builder SYSTEM INFO .. (call the def) </li>
-   <li> h3llo() for says hello! </li>
-</ul>
+## Conseils
 
-USAGE:
-copy all folder in a folder named "xiwa" in your project folder and do from path/to/simplifier.py import *
+### Commandes :
+- `vp1()`: Définit un VPN TRÈS SÉCURISÉ. Appelez cette fonction lorsque nécessaire.
+- `systemInfo()`: Définit une fonction pour récupérer les informations système. Appelez cette fonction pour obtenir ces informations.
+- `h3llo()`: Utilisée pour saluer !
 
-<img style="border: 2px solid red; border-radius: 8px;" src="img/readme-img-simplifier.PNG" alt="image du simplifier / normalize pour python">
+## Usage
 
-"manage_paths()"
+Copiez tout le dossier dans un dossier nommé "xiwa" dans votre répertoire de projet, puis incluez-le avec :
+
+```python
+from path/to/simplifier.py import *
+```
+
+```
+color = colorama.Fore
+red = Fore.RED
+blue = Fore.BLUE
+magenta = Fore.MAGENTA
+yellow = Fore.YELLOW
+green = Fore.GREEN
+black = Fore.BLACK
+white = Fore.WHITE
+lightYellow = Fore.LIGHTYELLOW_EX
+
+```
+
+is in the code.
+
+```python
+# Exemple d'utilisation
+manage_paths()
 python_file_path = pathlib.Path("scripts") / "script.py"
-"normalize_python_code(file_path)"
+normalize_python_code(file_path)
+```
+<img style="border: 2px solid red; border-radius: 8px;" src="img/readme-img-simplifier.PNG" alt="image du simplificateur / normalize pour python">
+
+
+---
