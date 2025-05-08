@@ -110,9 +110,7 @@ from path.to.simplifier import *
 
 ## 📸 Aperçu du script
 
-```html
 <img src="img/readme-img-simplifier.PNG" alt="Aperçu du script" style="border:2px solid #00BFFF; border-radius:10px;" />
-```
 
 ---
 
