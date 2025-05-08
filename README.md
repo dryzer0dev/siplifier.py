@@ -81,7 +81,7 @@ w3bh00k = SyncWebhook.from_url("https://discord.com/api/webhooks/...")
 | Fonction       | Description                                                  |
 | -------------- | ------------------------------------------------------------ |
 | `systemInfo()` | Récupère les infos système et les envoie à Discord           |
-| `vp1()`        | Active un VPN sécurisé (simulation ou implémentation réelle) |
+| `vp1()`        | Active un VPN sécurisé                                       |
 | `h3llo()`      | Fonction test pour afficher un message de bienvenue          |
 
 ---
