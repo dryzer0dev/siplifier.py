@@ -10,7 +10,7 @@ import pathlib
 requirements = [
     'b64', 'colorama', 'psutil', 'pillow', 'discord', 'beautifulsoup4',
     'gpt', 'browser-cookie3', 'bcrypt', 'phonenumbers', 'scapy', 'shodan',
-    'requests', 'flask', 'paramiko', 'python nmap', 'hashlib', 'cryptography',
+    'requests', 'flask', 'paramiko', 'python-nmap', 'hashlib', 'cryptography',
     'pycryptodome', 'pyfiglet', 'pytest', 'pytest-xdist', 'selenium',
     'aiohttp', 'sqlalchemy', 'sqlmap', 'openpyxl', 'tabulate',
     'pyftpdlib', 'pexpect', 'pyshark', 'urllib3', 'jwt',
